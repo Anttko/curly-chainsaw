@@ -1,0 +1,19 @@
+{
+  "name": "curly-chainsaw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anttko/curly-chainsaw.git"
+  },
+  "author": "anttko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anttko/curly-chainsaw/issues"
+  },
+  "homepage": "https://github.com/Anttko/curly-chainsaw#readme"
+}
